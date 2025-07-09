@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = "ru.cws.helper"
+group = "ru.cws"
 
 // Set version to version property if supplied
 String shortVersion = null
@@ -44,6 +44,5 @@ repositories {
 }
 
 dependencies {
-    compileOnly project("Leaf-CWS-Fake")
     compileOnly 'io.papermc.paper:paper-api:1.21.7-R0.1-SNAPSHOT'
 }
