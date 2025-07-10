@@ -1,2 +1,2 @@
-rootProject.name = 'Leaf-CWS-Helper'
-include("Leaf-CWS-Fake")
+rootProject.name = 'Leaf-Helper-CWS'
+include("Leaf-Fake-CWS")
