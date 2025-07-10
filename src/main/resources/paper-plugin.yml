@@ -1,5 +1,5 @@
 main: ru.cws.helper.Plugin
-name: Leaf-CWS-Helper
+name: Leaf-Helper-CWS
 version: "1.0.0"
 api-version: "1.21.7"
 author: DomamaN202
